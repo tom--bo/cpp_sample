@@ -1,0 +1,5 @@
+.clang-format
+.gdb_history
+bld/
+cmake-build-debug/
+
