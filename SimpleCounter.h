@@ -5,6 +5,8 @@
 class SimpleCounter {
   public:
   int cnt = 0;
+  char str[10];
+  int dummy;
   SimpleCounter() {
     cnt = 0;
   }
